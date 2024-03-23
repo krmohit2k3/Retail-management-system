@@ -1,0 +1,1 @@
+# Minimalistic Retail Managemnet System
